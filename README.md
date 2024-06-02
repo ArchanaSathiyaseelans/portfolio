@@ -11,21 +11,32 @@ science to achieve substantial business outcomes.
 
 #### Technical Skills: 
 PYTHON, SQL, JAVASCRIPT,
+
 HTML, CSS, ORACLE,
+
 MICROSOFT OFFICE SUITE,
+
 ADODE CREATIVE SUITE,
+
 DATA CLEANING & VISUALIZATION,
+
 POWERBI, ADVANCED EXCEL.
+
 OPENCV, SCIKIT-LEARN, FLASK,
+
 MACHINE LEARNING,
+
 DJANGO, NUMPY, PANDAS,
+
 TESTING & DEBUGGING.
 
 
 ## Education
 - Govt. First Grade College K.G.F						       		
-BSC- COMPUTER SCIENCE (2016 - 2020)
-CGPA -7.38
+
+  BSC- COMPUTER SCIENCE (2016 - 2020)
+
+  CGPA -7.38
 
 
 ## Work Experience
@@ -82,7 +93,9 @@ using CNN that classifies whether the person is happy or sad with more than 80% 
 ## Certifications
 
 LINKEDIN & MICROSOFT - LEARNING PATH IN BECOMING A DATA SCIENTIST
+
 LINKEDIN & MICROSOFT - LEARNING PATH IN BECOMING A FULL -STACK WEB DEVELOPER
+
 GOOGLE -               GOOLE ANALYTICS FOR BEGINNERS AND ADVANCED
 
 
