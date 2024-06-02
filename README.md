@@ -1,56 +1,91 @@
-# portfolio
+
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## ABOUT ME
+Data Scientist with advanced knowledge in machine learning and python development,
+seeking big opportunity to leverage my experience and learning. Built and implemented
+20+ machine learning models and have 1+ years of experience in software development.
+My career highlights implementing key predictive models and developing data-centric
+solutions directly contributing to operational growth and efficiency, applying data
+science to achieve substantial business outcomes.
+
+#### Technical Skills: 
+PYTHON, SQL, JAVASCRIPT,
+HTML, CSS, ORACLE,
+MICROSOFT OFFICE SUITE,
+ADODE CREATIVE SUITE,
+DATA CLEANING & VISUALIZATION,
+POWERBI, ADVANCED EXCEL.
+OPENCV, SCIKIT-LEARN, FLASK,
+MACHINE LEARNING,
+DJANGO, NUMPY, PANDAS,
+TESTING & DEBUGGING.
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Govt. First Grade College K.G.F						       		
+BSC- COMPUTER SCIENCE (2016 - 2020)
+CGPA -7.38
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+HINDUSTAN AERONATICS LIMITED
+MAR 2023 - MAR 2024 (Apprenticeship training)
+Worked on the software development projects especially on building desktop websites and
+dashboards for other depts on both static and dynamic fields. learnt and present in whole
+Software development process and contributed my best to the development team.
+Designed and developed IT complaint management system, a desktop website for hardware
+team to manage and update day-day process by using ASP-NET, C# and Oracle for database.
+Built and redesigned a static desktop website for vigilance department in one week which,
+helped my soft skill in time management.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+MANDO SOFTWARE TECH PVT LTD.
+JAN 2020 - MAR 2020 (Software Engineer - Trainee)
+As python developer worked on the multiple software projects simultaneously & participated in
+whole software development process from design to implementation & delivery.
+Designed & developed analysis system from large scale data, Re-structured, schemas with 100+
+tables to enhance data integrity.
+Worked in machine learning application including computer vision & natural. language processing.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### DATA ANALYSIS PROJECTS
+SALES-INSIGHTS - Brick & Motor Business [POWER BI, SQL]
+Built a Power Bi dashboard to understand and track ATILQ Hardware Sales Trend.
+The Final dashboard designed after feedback was effective at displaying the Sales trend,
+allowing users to understand the data and make informed decisions.
+This dashboard could help in increasing the revenue at least by 7% in the next quarter.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+PERSONAL FINANCE - Finance Domain [POWER BI, EXCEL]
+Designed a Power Bi Dashboard for Personal Finance to track - yearly/Monthly Savings &
+Expenses, the user was able to gain insights about their spending pattern, weather they are
+meeting their Saving target or not. Created a new Measure of Saving target in which the user
+can save their income up to 25% fand keep track of it.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### MACHINE LEARNING AND DEEP LEARNING PROJECTS
+REAL ESTATE - HOUSE PRICE PREDICTION - Built a Real Time Machine learning model and
+python flask server in which it can estimate the house prices.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+MOVIE RECOMMENDATION SYSTEM - Built and developed a Machine learning model and
+Stream lit application to recommend the movies to the users that is highly demanded and most
+useful in OTT platforms.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+PLANT DISEASE PREDICTION - Built and designed a system for Agriculture Domain in which
+it can predict the disease of the plant in every stage of the growth.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+DEEP IMAGE CLASSIFICATION - Implemented and designed a Machine Learning System
+using CNN that classifies whether the person is happy or sad with more than 80% accuracy.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+## Certifications
 
-- [Data Science Blog](https://medium.com/@shawhin)
+LINKEDIN & MICROSOFT - LEARNING PATH IN BECOMING A DATA SCIENTIST
+LINKEDIN & MICROSOFT - LEARNING PATH IN BECOMING A FULL -STACK WEB DEVELOPER
+GOOGLE -               GOOLE ANALYTICS FOR BEGINNERS AND ADVANCED
+
+
+
+
+
+
+
