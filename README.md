@@ -75,17 +75,17 @@ meeting their Saving target or not. Created a new Measure of Saving target in wh
 can save their income up to 25% fand keep track of it.
 
 ### MACHINE LEARNING AND DEEP LEARNING PROJECTS
-REAL ESTATE - HOUSE PRICE PREDICTION - Built a Real Time Machine learning model and
+- REAL ESTATE - HOUSE PRICE PREDICTION - Built a Real Time Machine learning model and
 python flask server in which it can estimate the house prices.
 
-MOVIE RECOMMENDATION SYSTEM - Built and developed a Machine learning model and
+- MOVIE RECOMMENDATION SYSTEM - Built and developed a Machine learning model and
 Stream lit application to recommend the movies to the users that is highly demanded and most
 useful in OTT platforms.
 
-PLANT DISEASE PREDICTION - Built and designed a system for Agriculture Domain in which
+- PLANT DISEASE PREDICTION - Built and designed a system for Agriculture Domain in which
 it can predict the disease of the plant in every stage of the growth.
 
-DEEP IMAGE CLASSIFICATION - Implemented and designed a Machine Learning System
+- DEEP IMAGE CLASSIFICATION - Implemented and designed a Machine Learning System
 using CNN that classifies whether the person is happy or sad with more than 80% accuracy.
 
 
