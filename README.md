@@ -29,8 +29,9 @@ CGPA -7.38
 
 
 ## Work Experience
-HINDUSTAN AERONATICS LIMITED
-MAR 2023 - MAR 2024 (Apprenticeship training)
+### HINDUSTAN AERONATICS LIMITED
+#### MAR 2023 - MAR 2024 (Apprenticeship training)
+
 Worked on the software development projects especially on building desktop websites and
 dashboards for other depts on both static and dynamic fields. learnt and present in whole
 Software development process and contributed my best to the development team.
@@ -39,8 +40,9 @@ team to manage and update day-day process by using ASP-NET, C# and Oracle for da
 Built and redesigned a static desktop website for vigilance department in one week which,
 helped my soft skill in time management.
 
-MANDO SOFTWARE TECH PVT LTD.
-JAN 2020 - MAR 2020 (Software Engineer - Trainee)
+### MANDO SOFTWARE TECH PVT LTD.
+### JAN 2020 - MAR 2020 (Software Engineer - Trainee)
+
 As python developer worked on the multiple software projects simultaneously & participated in
 whole software development process from design to implementation & delivery.
 Designed & developed analysis system from large scale data, Re-structured, schemas with 100+
@@ -49,13 +51,13 @@ Worked in machine learning application including computer vision & natural. lang
 
 ## Projects
 ### DATA ANALYSIS PROJECTS
-SALES-INSIGHTS - Brick & Motor Business [POWER BI, SQL]
+#### SALES-INSIGHTS - Brick & Motor Business [POWER BI, SQL]
 Built a Power Bi dashboard to understand and track ATILQ Hardware Sales Trend.
 The Final dashboard designed after feedback was effective at displaying the Sales trend,
 allowing users to understand the data and make informed decisions.
 This dashboard could help in increasing the revenue at least by 7% in the next quarter.
 
-PERSONAL FINANCE - Finance Domain [POWER BI, EXCEL]
+#### PERSONAL FINANCE - Finance Domain [POWER BI, EXCEL]
 Designed a Power Bi Dashboard for Personal Finance to track - yearly/Monthly Savings &
 Expenses, the user was able to gain insights about their spending pattern, weather they are
 meeting their Saving target or not. Created a new Measure of Saving target in which the user
